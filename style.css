@@ -1,0 +1,84 @@
+#card {
+
+    width: 300;
+    background-color: skyblue;
+    height: 500;
+    border-radius: 24px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 30px;
+    
+
+}
+ img{
+     width: 100%;
+     height: 250;
+     border-radius: 24px;
+
+ }
+ button{
+    background-color: orangered;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    padding: 15px 32px;
+    margin-left: 90px;
+    margin-top: 20px;
+    font-style: italic;
+    cursor: pointer;
+    border-radius: 24px;
+    font-weight: bolder;
+
+ }
+ p{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 50px;
+    font-style: italic;
+
+
+}
+
+#seccard {
+
+    width: 300;
+    background-color: skyblue;
+    height: 500;
+    border-radius: 24px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 30px;
+
+    
+    
+
+}
+ img{
+     width: 100%;
+     height: 250;
+     border-radius: 24px;
+
+ }
+ button{
+    background-color: orangered;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    padding: 15px 32px;
+    margin-left: 90px;
+    margin-top: 20px;
+    font-style: italic;
+    cursor: pointer;
+    border-radius: 24px;
+    font-weight: bolder;
+
+ }
+ p{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 50px;
+    font-style: italic;
+
+}
+#flo{
+
+        display: inline-flex;
+}
